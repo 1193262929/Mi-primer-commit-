@@ -1,0 +1,28 @@
+.section{
+    width: 300px;
+    margin: auto;
+    border: 2px solid gray;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.titulo{
+    font-weight: bold;
+    border-bottom: 2px solid yellow;
+}
+    
+.p{
+    text-align: justify;
+}   
+
+.div_input{
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.input{
+    padding: 5px 10px;
+}
