@@ -29,7 +29,7 @@
         if(!empty($_POST['nombre'])){
             $nombre = $_POST['nombre'];
             ?>
-                <div class="mensaje"><?php echo "Hola ". $nombre . " bienvenido(a) al curso de git y GitHub";?></div>
+                <div class="mensaje"><?php echo "Hola ". $nombre . " bienvenido(a) al curso de git y GitHub, debes seguir practicando mucho Git";?></div>
             <?php
         }
         
